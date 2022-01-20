@@ -11,7 +11,8 @@
 - 🥅 2022 Goals: Create amazing websites
 - ⚡ Fun fact: I love crafts, reading and cycling
 
-<!--### Connect with me:
+<!--
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -43,7 +44,6 @@
 <br />
 <br />
 
----
 
 ### 📺 Latest YouTube Videos
 
@@ -57,7 +57,7 @@
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
----
+
 
 ### 📕 Latest Blog Posts
 
@@ -71,7 +71,6 @@
 
 ➡️ [more blog posts...](https://codestackr.com)
 
----
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
