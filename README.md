@@ -1,6 +1,6 @@
-### Hi there, I'm Shiv - aka [codeSTACKr][website] 👋 
+### Hi there, I'm Shiv -  👋 
 
-[![Website]
+[![Website
 [![Twitter 
 
 ## I'm a Mum, Teacher and oneday a Web Developer!!
